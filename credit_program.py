@@ -96,7 +96,7 @@ while True:
                     print("Terima kasih telah menggunakan ATM Progate!")
                     exit()
                 
-                 elif selectmenu == 0:
+                elif selectmenu == 0:
                      exit()
             else:
                 print("Error. Maaf, menu tidak tersedia")
